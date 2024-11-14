@@ -10,4 +10,4 @@ Learning the concepts and practicing the use of multi-agent systems
 |   01  |   Agent Framework |
 |       |   L CrewAI        |
 |       |   L AutoGen       |
-
+|       |   L LangChain     |

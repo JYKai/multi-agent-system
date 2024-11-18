@@ -7,7 +7,6 @@ Learning the concepts and practicing the use of multi-agent systems
 ## Progress
 | Chapter | Content |
 |  :--- | ---- | 
-<<<<<<< HEAD
 |   01  |   Agent Framework             |
 |       |   L CrewAI                    |
 |       |   L AutoGen                   |

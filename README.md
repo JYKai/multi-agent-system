@@ -7,7 +7,9 @@ Learning the concepts and practicing the use of multi-agent systems
 ## Progress
 | Chapter | Content |
 |  :--- | ---- | 
-|   01  |   Agent Framework |
-|       |   L CrewAI        |
-|       |   L AutoGen       |
-|       |   L LangChain     |
+|   01  |   Agent Framework             |
+|       |   L CrewAI                    |
+|       |   L AutoGen                   |
+|       |   L LangChain                 |
+|   02  |   LangGraph Concept & Usage   |
+|       |   L Learn about LangGraph     | 

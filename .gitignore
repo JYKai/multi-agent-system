@@ -2,3 +2,5 @@
 db/
 
 CH*
+wav/
+*.dock

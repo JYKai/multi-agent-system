@@ -216,3 +216,32 @@ async for chunk in graph.astream(initial_input, thread, stream_mode="updates"):
 ```
 '다음은 LLM(대형 언어 모델) 에이전트의 연구 및 개발 동향에 대한 표입니다.\n\n| 날짜          | 연구/개발 진행 상황                                                                                                   | 주요 내용 및 기술                                          | 참고 자료                                       |\n|---------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------|\n| 2024년 11월 25일 | Reflexion: 언어 에이전트의 언어 강화 학습 연구 발표                                                            | 언어 모델의 신뢰성 평가 및 향상 기술                    | [LG Research](https://www.lgresearch.ai/blog/view?seq=484) |\n| 2024년 11월 25일 | Prometheus 2 공개: 다른 언어 모델을 평가하기 위한 오픈 소스 언어 모델 개발                                     | 언어 모델 간 비교 및 평가 방법론                       | [LG Research](https://www.lgresearch.ai/blog/view?seq=473) |\n| 2024년 11월 25일 | RAG(검색 증강 생성) 기술의 부상 및 연구                                                                          | 데이터 검색 및 실시간 정보 반응 시스템 발전 전망      | [Skelter Labs](https://www.skelterlabs.com/blog/2024-year-of-the-rag) |\n| 2024년 11월 25일 | ICLR 2024 워크숍에서 LLM 에이전트 관련 연구 발표                                                               | 언어 모델의 안전성 및 효율성 증대에 관한 논의          | [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/LLMAgents) |\n\n이 표는 LLM 에이전트의 연구 및 개발이 어떻게 진행되고 있는지를 요약한 것입니다. 각 항목은 연구 내용, 기술적 접근 및 관련 자료를 포함하고 있습니다.'
 ```
+
+</br></br>
+
+# Multi-agent Report generator
+
+**Multi-agent structure**
+<p align="center">
+  <img src='./images/graph3.png'>
+</p>
+
+```
+보고서 주제를 입력하세요:  LLM Agent 비즈니스 활용
+생성할 섹션의 수를 입력하세요:  5
+Completed section 1 of  5
+Completed section 2 of  5
+Completed section 3 of  5
+Completed section 4 of  5
+Completed section 5 of  5
+
+=== 보고서 생성 완료 ===
+```
+
+</br></br>
+
+# Multi-agent Stock analysis
+
+</br></br>
+
+# Multi-agent Podcast

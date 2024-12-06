@@ -4,3 +4,6 @@ db/
 CH*
 wav/
 *.dock
+
+.env
+__pycache__/

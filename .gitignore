@@ -7,3 +7,6 @@ wav/
 
 .env
 __pycache__/
+charts/
+data/
+chroma_db/
